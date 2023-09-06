@@ -1,0 +1,65 @@
+ form{
+
+    width: 40%;
+    margin: 20px auto;
+ }
+
+
+ .btn-sub{
+
+
+    background-color: purple;
+    color: white;
+
+ }
+
+
+ .btn-sub {
+ font-weight: bolder !important;
+ background-color:purple;
+ border-radius: 3px;
+ border: 1px solid #7aa7c7;
+ box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+ box-sizing: border-box;
+ color: white;
+ cursor: pointer;
+ display: inline-block;
+ font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+ font-size: 23px;
+ font-weight: 400;
+ line-height: 1.15385;
+ margin: 20px;
+ outline: none;
+ padding: 8px .8em;
+ position: relative;
+ text-align: center;
+ text-decoration: none;
+ user-select: none;
+ -webkit-user-select: none;
+ touch-action: manipulation;
+ vertical-align: baseline;
+ white-space: nowrap;
+}
+
+.btn-sub:hover,
+.btn-sub:focus {
+ background-color: #b3d3ea;
+ color: #2c5777;
+}
+
+.btn-sub:focus {
+ box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
+}
+
+.btn-sub:active {
+ background-color: #a0c7e4;
+ box-shadow: none;
+ color: #2c5777;
+}
+
+.ingredients{
+    display: flex;
+    
+
+
+}
